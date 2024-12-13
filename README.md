@@ -20,7 +20,8 @@ This project demonstrates how to implement a Retrieval-Augmented Generation (RAG
 3. **Llama-Index Integration**: Utilizes Llama-Index for efficient document indexing and retrieval.
 4. **RAG Pipeline**: Combines retrieval and generation for answering user queries.
 5. **Interactive Visualizations**: Knowledge Graphs are rendered in `Knowledge_graph.html` and `graph.html` for interactive exploration.
-6. **Output Demonstration**: A GIF demonstrating the output is available [here](Implement-RAG-multidoc-with-Knowledge-Graph-and-Llama-Index-ipynb---Colab-ezgif.com-video-to-gif-converter.gif).
+6. **Output Demonstration**: A GIF demonstrating the output is available .
+   ![](Implement-RAG-multidoc-with-Knowledge-Graph-and-Llama-Index-ipynb---Colab-ezgif.com-video-to-gif-converter.gif)
 
 ## Prerequisites
 
