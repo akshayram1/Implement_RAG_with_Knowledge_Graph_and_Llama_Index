@@ -22,6 +22,8 @@ This project demonstrates how to implement a Retrieval-Augmented Generation (RAG
 5. **Interactive Visualizations**: Knowledge Graphs are rendered in `Knowledge_graph.html` and `graph.html` for interactive exploration.
 6. **Output Demonstration**: A GIF demonstrating the output is available .
    ![](Implement-RAG-multidoc-with-Knowledge-Graph-and-Llama-Index-ipynb---Colab-ezgif.com-video-to-gif-converter.gif)
+   ![](Screenshot 2024-12-13 172019.png)
+ 
 
 ## Prerequisites
 
